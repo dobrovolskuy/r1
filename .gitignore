@@ -2,4 +2,5 @@
 venv/
 пробу/
 .idea
-eval*
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
