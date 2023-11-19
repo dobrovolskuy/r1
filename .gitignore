@@ -1,6 +1,6 @@
 # created by virtualenv automatically
 venv/
-пробу/
+home_work/
 .idea
-eval "$(ssh-agent -s)"
-eval "$(ssh-agent -s)".pub
+../ssh_agent*
+
