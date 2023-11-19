@@ -2,5 +2,5 @@
 venv/
 home_work/
 .idea
-../ssh_agent*
+./ssh_agent*
 
